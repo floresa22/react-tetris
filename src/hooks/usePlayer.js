@@ -36,7 +36,6 @@ export const usePlayer = () => {
         return;
       }
     }
-
     setPlayer(clonedPlayer);
   };
 
